@@ -49,6 +49,7 @@ THIS IS MY DSA PROBLEMS
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/2149-rearrange-array-elements-by-sign) |
+| [4026-maximum-gap-between-stations](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/4026-maximum-gap-between-stations) |
 ## Simulation
 |  |
 | ------- |
@@ -57,8 +58,13 @@ THIS IS MY DSA PROBLEMS
 |  |
 | ------- |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
+| [4026-maximum-gap-between-stations](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/4026-maximum-gap-between-stations) |
 ## Enumeration
 |  |
 | ------- |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
+## Greedy
+|  |
+| ------- |
+| [4026-maximum-gap-between-stations](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/4026-maximum-gap-between-stations) |
 <!---LeetCode Topics End-->
