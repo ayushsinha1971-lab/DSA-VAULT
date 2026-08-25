@@ -16,6 +16,7 @@ THIS IS MY DSA PROBLEMS
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/1872-stone-game-viii) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
 |  |
 | ------- |
