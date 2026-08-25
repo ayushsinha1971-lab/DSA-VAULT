@@ -25,6 +25,7 @@ THIS IS MY DSA PROBLEMS
 | ------- |
 | [1872-stone-game-viii](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/1872-stone-game-viii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 | [3987-minimum-total-cost-to-process-all-elements](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3987-minimum-total-cost-to-process-all-elements) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Dynamic Programming
@@ -117,4 +118,8 @@ THIS IS MY DSA PROBLEMS
 |  |
 | ------- |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
+## Number Theory
+|  |
+| ------- |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 <!---LeetCode Topics End-->
