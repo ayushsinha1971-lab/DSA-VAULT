@@ -66,6 +66,7 @@ THIS IS MY DSA PROBLEMS
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0020-valid-parentheses) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 | [4026-maximum-gap-between-stations](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/4026-maximum-gap-between-stations) |
 ## Enumeration
@@ -99,4 +100,12 @@ THIS IS MY DSA PROBLEMS
 |  |
 | ------- |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
