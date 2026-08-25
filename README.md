@@ -15,6 +15,7 @@ THIS IS MY DSA PROBLEMS
 | [2149-rearrange-array-elements-by-sign](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3833-count-dominant-indices](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3833-count-dominant-indices) |
+| [3917-count-indices-with-opposite-parity](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3917-count-indices-with-opposite-parity) |
 | [3987-minimum-total-cost-to-process-all-elements](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3987-minimum-total-cost-to-process-all-elements) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 | [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/4012-count-of-unfinished-tasks-after-each-shift) |
