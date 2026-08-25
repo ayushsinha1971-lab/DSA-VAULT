@@ -11,6 +11,7 @@ THIS IS MY DSA PROBLEMS
 | [2149-rearrange-array-elements-by-sign](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3718-smallest-missing-multiple-of-k) |
 | [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/4012-count-of-unfinished-tasks-after-each-shift) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/4014-minimum-total-price-after-applying-discounts) |
 | [4024-nearest-available-drone](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/4024-nearest-available-drone) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Hash Table
@@ -53,6 +54,7 @@ THIS IS MY DSA PROBLEMS
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/2149-rearrange-array-elements-by-sign) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/4014-minimum-total-price-after-applying-discounts) |
 | [4026-maximum-gap-between-stations](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/4026-maximum-gap-between-stations) |
 ## Simulation
 |  |
@@ -71,10 +73,15 @@ THIS IS MY DSA PROBLEMS
 ## Greedy
 |  |
 | ------- |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/4014-minimum-total-price-after-applying-discounts) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 | [4026-maximum-gap-between-stations](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/4026-maximum-gap-between-stations) |
 ## Binary Search
 |  |
 | ------- |
 | [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/4012-count-of-unfinished-tasks-after-each-shift) |
+## Sorting
+|  |
+| ------- |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/4014-minimum-total-price-after-applying-discounts) |
 <!---LeetCode Topics End-->
