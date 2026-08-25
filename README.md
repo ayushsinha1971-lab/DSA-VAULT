@@ -6,6 +6,7 @@ THIS IS MY DSA PROBLEMS
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0053-maximum-subarray) |
 | [1872-stone-game-viii](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/1872-stone-game-viii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
@@ -20,6 +21,7 @@ THIS IS MY DSA PROBLEMS
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0053-maximum-subarray) |
 | [1872-stone-game-viii](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/1872-stone-game-viii) |
 ## Minimax
 |  |
@@ -37,4 +39,8 @@ THIS IS MY DSA PROBLEMS
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/1872-stone-game-viii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
