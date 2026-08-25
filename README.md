@@ -30,6 +30,7 @@ THIS IS MY DSA PROBLEMS
 | ------- |
 | [0053-maximum-subarray](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0053-maximum-subarray) |
 | [1872-stone-game-viii](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/1872-stone-game-viii) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Minimax
 |  |
 | ------- |
@@ -72,6 +73,7 @@ THIS IS MY DSA PROBLEMS
 ## Enumeration
 |  |
 | ------- |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 | [4024-nearest-available-drone](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/4024-nearest-available-drone) |
 ## Greedy
@@ -108,4 +110,8 @@ THIS IS MY DSA PROBLEMS
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0020-valid-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 <!---LeetCode Topics End-->
