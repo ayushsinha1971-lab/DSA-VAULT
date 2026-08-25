@@ -14,6 +14,7 @@ THIS IS MY DSA PROBLEMS
 | [1872-stone-game-viii](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/1872-stone-game-viii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3833-count-dominant-indices](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3833-count-dominant-indices) |
 | [3987-minimum-total-cost-to-process-all-elements](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3987-minimum-total-cost-to-process-all-elements) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 | [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/4012-count-of-unfinished-tasks-after-each-shift) |
@@ -96,6 +97,7 @@ THIS IS MY DSA PROBLEMS
 ## Enumeration
 |  |
 | ------- |
+| [3833-count-dominant-indices](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3833-count-dominant-indices) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 | [4024-nearest-available-drone](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/4024-nearest-available-drone) |
