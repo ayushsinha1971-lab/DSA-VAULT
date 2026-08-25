@@ -20,10 +20,12 @@ THIS IS MY DSA PROBLEMS
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0012-integer-to-roman) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0012-integer-to-roman) |
 | [1872-stone-game-viii](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/1872-stone-game-viii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
@@ -72,6 +74,7 @@ THIS IS MY DSA PROBLEMS
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0020-valid-parentheses) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
