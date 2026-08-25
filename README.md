@@ -6,6 +6,7 @@ THIS IS MY DSA PROBLEMS
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0053-maximum-subarray) |
 | [1872-stone-game-viii](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/1872-stone-game-viii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -71,6 +72,7 @@ THIS IS MY DSA PROBLEMS
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0020-valid-parentheses) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 | [4026-maximum-gap-between-stations](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/4026-maximum-gap-between-stations) |
@@ -122,4 +124,8 @@ THIS IS MY DSA PROBLEMS
 |  |
 | ------- |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
