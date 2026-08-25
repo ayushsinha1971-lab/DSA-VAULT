@@ -26,6 +26,7 @@ THIS IS MY DSA PROBLEMS
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0013-roman-to-integer) |
 | [1872-stone-game-viii](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/1872-stone-game-viii) |
