@@ -31,6 +31,7 @@ THIS IS MY DSA PROBLEMS
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0013-roman-to-integer) |
@@ -154,4 +155,12 @@ THIS IS MY DSA PROBLEMS
 |  |
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
