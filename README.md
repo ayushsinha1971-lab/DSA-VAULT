@@ -6,6 +6,7 @@ THIS IS MY DSA PROBLEMS
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0053-maximum-subarray) |
 | [1872-stone-game-viii](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/1872-stone-game-viii) |
@@ -20,6 +21,7 @@ THIS IS MY DSA PROBLEMS
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0013-roman-to-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3718-smallest-missing-multiple-of-k) |
