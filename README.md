@@ -9,6 +9,7 @@ THIS IS MY DSA PROBLEMS
 | [0001-two-sum](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0053-maximum-subarray) |
+| [0560-subarray-sum-equals-k](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0560-subarray-sum-equals-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1872-stone-game-viii](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/1872-stone-game-viii) |
@@ -29,6 +30,7 @@ THIS IS MY DSA PROBLEMS
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0013-roman-to-integer) |
+| [0560-subarray-sum-equals-k](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0560-subarray-sum-equals-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
 |  |
@@ -55,6 +57,7 @@ THIS IS MY DSA PROBLEMS
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0560-subarray-sum-equals-k) |
 | [1872-stone-game-viii](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/1872-stone-game-viii) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 | [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/4012-count-of-unfinished-tasks-after-each-shift) |
