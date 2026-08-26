@@ -92,6 +92,7 @@ THIS IS MY DSA PROBLEMS
 | [0013-roman-to-integer](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0020-valid-parentheses) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3813-vowel-consonant-score](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3813-vowel-consonant-score) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 | [4026-maximum-gap-between-stations](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/4026-maximum-gap-between-stations) |
@@ -154,6 +155,7 @@ THIS IS MY DSA PROBLEMS
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Matrix
 |  |
 | ------- |
