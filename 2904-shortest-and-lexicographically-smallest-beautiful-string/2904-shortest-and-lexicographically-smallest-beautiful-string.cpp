@@ -22,7 +22,7 @@ public:
                 ans = s.substr(l, len);
             } else if (len == minLen) {
                 string cand = s.substr(l, len);
-                if (cand < ans) ans = cand;   // lexicographically smaller
+                if (cand < ans) ans = cand; 
             }
         }
         return ans;
