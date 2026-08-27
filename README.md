@@ -32,6 +32,7 @@ THIS IS MY DSA PROBLEMS
 | [0013-roman-to-integer](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0013-roman-to-integer) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0560-subarray-sum-equals-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Math
 |  |
 | ------- |
@@ -96,12 +97,14 @@ THIS IS MY DSA PROBLEMS
 | [0014-longest-common-prefix](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0020-valid-parentheses) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3813-vowel-consonant-score](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3813-vowel-consonant-score) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 | [4026-maximum-gap-between-stations](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/4026-maximum-gap-between-stations) |
 ## Enumeration
 |  |
 | ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3833-count-dominant-indices](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3833-count-dominant-indices) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
@@ -110,6 +113,7 @@ THIS IS MY DSA PROBLEMS
 |  |
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/4014-minimum-total-price-after-applying-discounts) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 | [4026-maximum-gap-between-stations](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/4026-maximum-gap-between-stations) |
@@ -171,4 +175,8 @@ THIS IS MY DSA PROBLEMS
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0002-add-two-numbers) |
+## Counting
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
