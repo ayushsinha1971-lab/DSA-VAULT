@@ -16,6 +16,7 @@ THIS IS MY DSA PROBLEMS
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3833-count-dominant-indices](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3833-count-dominant-indices) |
 | [3917-count-indices-with-opposite-parity](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3917-count-indices-with-opposite-parity) |
@@ -33,6 +34,7 @@ THIS IS MY DSA PROBLEMS
 | [0012-integer-to-roman](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0013-roman-to-integer) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0560-subarray-sum-equals-k) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Math
@@ -156,6 +158,7 @@ THIS IS MY DSA PROBLEMS
 ## Bit Manipulation
 |  |
 | ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Number Theory
 |  |
@@ -174,6 +177,7 @@ THIS IS MY DSA PROBLEMS
 |  |
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Linked List
 |  |
 | ------- |
@@ -203,6 +207,7 @@ THIS IS MY DSA PROBLEMS
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0100-same-tree) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
 |  |
 | ------- |
