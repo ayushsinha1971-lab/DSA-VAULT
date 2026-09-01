@@ -191,4 +191,20 @@ THIS IS MY DSA PROBLEMS
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
