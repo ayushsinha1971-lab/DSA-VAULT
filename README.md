@@ -20,6 +20,7 @@ THIS IS MY DSA PROBLEMS
 | [3718-smallest-missing-multiple-of-k](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3833-count-dominant-indices](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3833-count-dominant-indices) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3917-count-indices-with-opposite-parity](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3917-count-indices-with-opposite-parity) |
 | [3987-minimum-total-cost-to-process-all-elements](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3987-minimum-total-cost-to-process-all-elements) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
@@ -48,6 +49,7 @@ THIS IS MY DSA PROBLEMS
 | [1872-stone-game-viii](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/1872-stone-game-viii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 | [3987-minimum-total-cost-to-process-all-elements](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3987-minimum-total-cost-to-process-all-elements) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
