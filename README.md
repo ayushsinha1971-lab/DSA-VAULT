@@ -22,6 +22,7 @@ THIS IS MY DSA PROBLEMS
 | [3875-construct-uniform-parity-array-i](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3904-smallest-stable-index-ii) |
 | [3917-count-indices-with-opposite-parity](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3917-count-indices-with-opposite-parity) |
 | [3987-minimum-total-cost-to-process-all-elements](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3987-minimum-total-cost-to-process-all-elements) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
@@ -70,6 +71,7 @@ THIS IS MY DSA PROBLEMS
 | [0560-subarray-sum-equals-k](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0560-subarray-sum-equals-k) |
 | [1872-stone-game-viii](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3904-smallest-stable-index-ii) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 | [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/4012-count-of-unfinished-tasks-after-each-shift) |
 ## Game Theory
