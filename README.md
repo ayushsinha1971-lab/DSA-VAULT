@@ -217,10 +217,12 @@ THIS IS MY DSA PROBLEMS
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0100-same-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0100-same-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -230,4 +232,5 @@ THIS IS MY DSA PROBLEMS
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0100-same-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
