@@ -27,7 +27,7 @@ public:
         return {count,sum};
     }
     int averageOfSubtree(TreeNode* root) {
-        dfs(root);
+        vector <int > okk =dfs(root);
         return ans;
     }
 };
