@@ -18,6 +18,7 @@ THIS IS MY DSA PROBLEMS
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3833-count-dominant-indices](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3833-count-dominant-indices) |
@@ -40,6 +41,7 @@ THIS IS MY DSA PROBLEMS
 | [0012-integer-to-roman](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0013-roman-to-integer) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0560-subarray-sum-equals-k) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -127,6 +129,7 @@ THIS IS MY DSA PROBLEMS
 ## Enumeration
 |  |
 | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3833-count-dominant-indices](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3833-count-dominant-indices) |
@@ -205,6 +208,7 @@ THIS IS MY DSA PROBLEMS
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0002-add-two-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3483-unique-3-digit-even-numbers) |
 ## Counting
 |  |
 | ------- |
