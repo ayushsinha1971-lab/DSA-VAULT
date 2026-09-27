@@ -11,6 +11,7 @@ THIS IS MY DSA PROBLEMS
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0118-pascals-triangle) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0560-subarray-sum-equals-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0835-image-overlap](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0835-image-overlap) |
@@ -68,6 +69,7 @@ THIS IS MY DSA PROBLEMS
 | ------- |
 | [0053-maximum-subarray](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0118-pascals-triangle) |
 | [0940-distinct-subsequences-ii](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0940-distinct-subsequences-ii) |
 | [1872-stone-game-viii](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/1872-stone-game-viii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
