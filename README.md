@@ -16,6 +16,7 @@ THIS IS MY DSA PROBLEMS
 | [0560-subarray-sum-equals-k](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0560-subarray-sum-equals-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0835-image-overlap](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0835-image-overlap) |
+| [0860-lemonade-change](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0860-lemonade-change) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1872-stone-game-viii](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -149,6 +150,7 @@ THIS IS MY DSA PROBLEMS
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0860-lemonade-change) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
