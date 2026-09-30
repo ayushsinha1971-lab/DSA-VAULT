@@ -12,6 +12,7 @@ THIS IS MY DSA PROBLEMS
 | [0035-search-insert-position](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0118-pascals-triangle) |
+| [0455-assign-cookies](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0560-subarray-sum-equals-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0835-image-overlap](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0835-image-overlap) |
@@ -104,6 +105,7 @@ THIS IS MY DSA PROBLEMS
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0455-assign-cookies](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0455-assign-cookies) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/4014-minimum-total-price-after-applying-discounts) |
@@ -146,6 +148,7 @@ THIS IS MY DSA PROBLEMS
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0455-assign-cookies) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -162,6 +165,7 @@ THIS IS MY DSA PROBLEMS
 ## Sorting
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0455-assign-cookies) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/4014-minimum-total-price-after-applying-discounts) |
@@ -251,4 +255,8 @@ THIS IS MY DSA PROBLEMS
 | ------- |
 | [0100-same-tree](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0100-same-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
