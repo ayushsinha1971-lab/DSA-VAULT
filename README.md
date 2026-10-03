@@ -69,6 +69,7 @@ THIS IS MY DSA PROBLEMS
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0118-pascals-triangle) |
@@ -126,6 +127,7 @@ THIS IS MY DSA PROBLEMS
 | [0013-roman-to-integer](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0940-distinct-subsequences-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -187,12 +189,14 @@ THIS IS MY DSA PROBLEMS
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bit Manipulation
