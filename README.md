@@ -21,6 +21,7 @@ THIS IS MY DSA PROBLEMS
 | [1872-stone-game-viii](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3483-unique-3-digit-even-numbers) |
@@ -155,6 +156,7 @@ THIS IS MY DSA PROBLEMS
 | [0860-lemonade-change](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0860-lemonade-change) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/4014-minimum-total-price-after-applying-discounts) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
@@ -164,12 +166,14 @@ THIS IS MY DSA PROBLEMS
 | ------- |
 | [0035-search-insert-position](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0035-search-insert-position) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/4012-count-of-unfinished-tasks-after-each-shift) |
 ## Sorting
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0455-assign-cookies) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/4014-minimum-total-price-after-applying-discounts) |
@@ -265,4 +269,8 @@ THIS IS MY DSA PROBLEMS
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0455-assign-cookies) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
