@@ -8,6 +8,7 @@ THIS IS MY DSA PROBLEMS
 | ------- |
 | [0001-two-sum](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0053-maximum-subarray) |
@@ -107,6 +108,7 @@ THIS IS MY DSA PROBLEMS
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0455-assign-cookies](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0455-assign-cookies) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -172,6 +174,7 @@ THIS IS MY DSA PROBLEMS
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0015-3sum) |
 | [0455-assign-cookies](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0455-assign-cookies) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
