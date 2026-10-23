@@ -13,6 +13,7 @@ THIS IS MY DSA PROBLEMS
 | [0035-search-insert-position](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0118-pascals-triangle) |
+| [0229-majority-element-ii](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0560-subarray-sum-equals-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -47,6 +48,7 @@ THIS IS MY DSA PROBLEMS
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0013-roman-to-integer) |
+| [0229-majority-element-ii](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0560-subarray-sum-equals-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -175,6 +177,7 @@ THIS IS MY DSA PROBLEMS
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0015-3sum) |
+| [0229-majority-element-ii](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0455-assign-cookies) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -243,6 +246,7 @@ THIS IS MY DSA PROBLEMS
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0229-majority-element-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Union-Find
 |  |
@@ -276,4 +280,8 @@ THIS IS MY DSA PROBLEMS
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/2333-minimum-sum-of-squared-difference) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/ayushsinha1971-lab/DSA-VAULT/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
